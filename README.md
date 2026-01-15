@@ -8,7 +8,7 @@
 ## References and Resources
 
 For EditText, I found it here https://stackoverflow.com/questions/33138862/text-box-in-android
-Used Gemini to find out about the .notifyDataSetChanged() method for the ArrayAdapter
+Used Gemini to find out about the .notifyDataSetChanged() method for the ArrayAdapter with the prompt: "how to add textbox to take in input in android studio"
 
 ## Verbal Collaboration
 
