@@ -2,16 +2,16 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Rowan Rasmusson`
+- **CCID:** `rrasmuss`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+For EditText, I found it here https://stackoverflow.com/questions/33138862/text-box-in-android
+Used Gemini to find out about the .notifyDataSetChanged() method for the ArrayAdapter
 
 ## Verbal Collaboration
 
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| Student Name | CCID     |
+|--------------|----------|
+| `David Zhao` | `dzhao6` |
